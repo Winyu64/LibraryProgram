@@ -163,10 +163,10 @@
             this.radioButton1.Location = new System.Drawing.Point(8, 61);
             this.radioButton1.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(86, 29);
+            this.radioButton1.Size = new System.Drawing.Size(94, 29);
             this.radioButton1.TabIndex = 4;
             this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "นักเรียน";
+            this.radioButton1.Text = "นักศึกษา";
             this.radioButton1.UseVisualStyleBackColor = true;
             // 
             // textBox3
